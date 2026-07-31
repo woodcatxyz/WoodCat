@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = '0x18b18ccee6227572850b071ac4f18965827f9fcd';
+const CONTRACT_ADDRESS = '0xdc0e6690fbd320d915d6a45a7c40a0a465aef0b2';
 
 function copyToClipboard(text) {
   if (navigator.clipboard && window.isSecureContext) {

@@ -13,7 +13,7 @@
   --moss: #1a3d24;
   --lime: #9dff7a;
   --lime-dim: #6bcf52;
-  --frog: #3ddc5a;
+  --wild: #3ddc5a;
   --mist: #c8e6c0;
   --muted: #7a9a78;
   --white: #f2fff0;
@@ -651,7 +651,7 @@ a {
 }
 
 .roadmap-item.active .roadmap-dot {
-  background: var(--frog);
+  background: var(--wild);
   box-shadow: 0 0 0 4px rgba(61, 220, 90, 0.25);
   animation: pulse-dot 2s infinite;
 }
